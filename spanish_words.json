@@ -1193,5 +1193,10 @@
         "spanish": "diecinueve",
         "english": "nineteen",
         "category": "onetoten"
+    },
+    {
+        "spanish": "vein",
+        "english": "twenty",
+        "category": "onetotwenty"
     }
 ]
