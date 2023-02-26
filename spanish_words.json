@@ -1,0 +1,1202 @@
+[
+    {
+        "english": "apple",
+        "spanish": "manzana",
+        "category": "Food"
+    },
+    {
+        "english": "banana",
+        "spanish": "plátano",
+        "category": "Food"
+    },
+    {
+        "english": "carrot",
+        "spanish": "zanahoria",
+        "category": "Food"
+    },
+    {
+        "english": "cheese",
+        "spanish": "queso",
+        "category": "Food"
+    },
+    {
+        "english": "chicken",
+        "spanish": "pollo",
+        "category": "Food"
+    },
+    {
+        "english": "coffee",
+        "spanish": "café",
+        "category": "Food"
+    },
+    {
+        "english": "egg",
+        "spanish": "huevo",
+        "category": "Food"
+    },
+    {
+        "english": "fish",
+        "spanish": "pez",
+        "category": "Food"
+    },
+    {
+        "english": "orange",
+        "spanish": "naranja",
+        "category": "Food"
+    },
+    {
+        "english": "rice",
+        "spanish": "arroz",
+        "category": "Food"
+    },
+    {
+        "english": "beer",
+        "spanish": "cerveza",
+        "category": "Drink"
+    },
+    {
+        "english": "coca-cola",
+        "spanish": "coca-cola",
+        "category": "Drink"
+    },
+    {
+        "english": "lemonade",
+        "spanish": "limonada",
+        "category": "Drink"
+    },
+    {
+        "english": "milk",
+        "spanish": "leche",
+        "category": "Drink"
+    },
+    {
+        "english": "orange juice",
+        "spanish": "jugo de naranja",
+        "category": "Drink"
+    },
+    {
+        "english": "red wine",
+        "spanish": "vino tinto",
+        "category": "Drink"
+    },
+    {
+        "english": "soda",
+        "spanish": "gaseosa",
+        "category": "Drink"
+    },
+    {
+        "english": "tea",
+        "spanish": "té",
+        "category": "Drink"
+    },
+    {
+        "english": "water",
+        "spanish": "agua",
+        "category": "Drink"
+    },
+    {
+        "english": "whiskey",
+        "spanish": "whisky",
+        "category": "Drink"
+    },
+    {
+        "english": "book",
+        "spanish": "libro",
+        "category": "Hobbies"
+    },
+    {
+        "english": "camera",
+        "spanish": "cámara",
+        "category": "Hobbies"
+    },
+    {
+        "english": "dancing",
+        "spanish": "baile",
+        "category": "Hobbies"
+    },
+    {
+        "english": "drawing",
+        "spanish": "dibujo",
+        "category": "Hobbies"
+    },
+    {
+        "english": "fishing",
+        "spanish": "pesca",
+        "category": "Hobbies"
+    },
+    {
+        "english": "gardening",
+        "spanish": "jardinería",
+        "category": "Hobbies"
+    },
+    {
+        "english": "knitting",
+        "spanish": "tejer",
+        "category": "hobbies"
+    },
+    {
+        "english": "music",
+        "spanish": "música",
+        "category": "Hobbies"
+    },
+    {
+        "english": "painting",
+        "spanish": "pintura",
+        "category": "Hobbies"
+    },
+    {
+        "english": "photography",
+        "spanish": "fotografía",
+        "category": "Hobbies"
+    },
+    {
+        "english": "good morning",
+        "spanish": "buenos días",
+        "category": "Greetings"
+    },
+    {
+        "english": "good night",
+        "spanish": "buenas noches",
+        "category": "Greetings"
+    },
+    {
+        "english": "hello",
+        "spanish": "hola",
+        "category": "Greetings"
+    },
+    {
+        "english": "how are you?",
+        "spanish": "¿cómo estás?",
+        "category": "Greetings"
+    },
+    {
+        "english": "nice to meet you",
+        "spanish": "encantado de conocerte",
+        "category": "Greetings"
+    },
+    {
+        "english": "please",
+        "spanish": "por favor",
+        "category": "Greetings"
+    },
+    {
+        "english": "thank you",
+        "spanish": "gracias",
+        "category": "Greetings"
+    },
+    {
+        "english": "welcome",
+        "spanish": "bienvenido",
+        "category": "Greetings"
+    },
+    {
+        "english": "what's up?",
+        "spanish": "¿qué tal?",
+        "category": "Greetings"
+    },
+    {
+        "english": "goodbye",
+        "spanish": "adiós",
+        "category": "Greetings"
+    },
+    {
+        "english": "beautiful",
+        "spanish": "hermoso",
+        "category": "Looks"
+    },
+    {
+        "english": "fat",
+        "spanish": "gordo",
+        "category": "Looks"
+    },
+    {
+        "english": "handsome",
+        "spanish": "guapo",
+        "category": "Looks"
+    },
+    {
+        "english": "skinny",
+        "spanish": "flaco",
+        "category": "Looks"
+    },
+    {
+        "english": "ugly",
+        "spanish": "feo",
+        "category": "Looks"
+    },
+    {
+        "english": "tall",
+        "spanish": "alto",
+        "category": "Looks"
+    },
+    {
+        "english": "short",
+        "spanish": "bajo",
+        "category": "Looks"
+    },
+    {
+        "english": "old",
+        "spanish": "viejo",
+        "category": "Looks"
+    },
+    {
+        "english": "young",
+        "spanish": "joven",
+        "category": "Looks"
+    },
+    {
+        "english": "pretty",
+        "spanish": "bonito",
+        "category": "Looks"
+    },
+    {
+        "english": "black",
+        "spanish": "negro",
+        "category": "Colors"
+    },
+    {
+        "english": "blue",
+        "spanish": "azul",
+        "category": "Colors"
+    },
+    {
+        "english": "brown",
+        "spanish": "marrón",
+        "category": "Colors"
+    },
+    {
+        "english": "green",
+        "spanish": "verde",
+        "category": "Colors"
+    },
+    {
+        "english": "orange",
+        "spanish": "naranja",
+        "category": "Colors"
+    },
+    {
+        "english": "pink",
+        "spanish": "rosa",
+        "category": "Colors"
+    },
+    {
+        "english": "purple",
+        "spanish": "morado",
+        "category": "Colors"
+    },
+    {
+        "english": "red",
+        "spanish": "rojo",
+        "category": "Colors"
+    },
+    {
+        "english": "white",
+        "spanish": "blanco",
+        "category": "Colors"
+    },
+    {
+        "english": "yellow",
+        "spanish": "amarillo",
+        "category": "Colors"
+    },
+    {
+        "english": "cloudy",
+        "spanish": "nublado",
+        "category": "Weather"
+    },
+    {
+        "english": "cold",
+        "spanish": "frío",
+        "category": "Weather"
+    },
+    {
+        "english": "foggy",
+        "spanish": "nebuloso",
+        "category": "Weather"
+    },
+    {
+        "english": "hot",
+        "spanish": "caluroso",
+        "category": "Weather"
+    },
+    {
+        "english": "rainy",
+        "spanish": "lluvioso",
+        "category": "Weather"
+    },
+    {
+        "english": "snowy",
+        "spanish": "nevado",
+        "category": "Weather"
+    },
+    {
+        "english": "stormy",
+        "spanish": "tormentoso",
+        "category": "Weather"
+    },
+    {
+        "english": "sunny",
+        "spanish": "soleado",
+        "category": "Weather"
+    },
+    {
+        "english": "windy",
+        "spanish": "ventoso",
+        "category": "Weather"
+    },
+    {
+        "english": "umbrella",
+        "spanish": "paraguas",
+        "category": "Objects"
+    },
+    {
+        "english": "car",
+        "spanish": "coche",
+        "category": "Objects"
+    },
+    {
+        "english": "chair",
+        "spanish": "silla",
+        "category": "Objects"
+    },
+    {
+        "english": "computer",
+        "spanish": "ordenador",
+        "category": "Objects"
+    },
+    {
+        "english": "house",
+        "spanish": "casa",
+        "category": "Objects"
+    },
+    {
+        "english": "key",
+        "spanish": "llave",
+        "category": "Objects"
+    },
+    {
+        "english": "phone",
+        "spanish": "teléfono",
+        "category": "Objects"
+    },
+    {
+        "english": "shoes",
+        "spanish": "zapatos",
+        "category": "Objects"
+    },
+    {
+        "english": "table",
+        "spanish": "mesa",
+        "category": "Objects"
+    },
+    {
+        "english": "watch",
+        "spanish": "reloj",
+        "category": "Objects"
+    },
+    {
+        "english": "ball",
+        "spanish": "balón",
+        "category": "Korfball"
+    },
+    {
+        "english": "referee",
+        "spanish": "arbitro",
+        "category": "Korfball"
+    },
+    {
+        "english": "to throw",
+        "spanish": "lanzar",
+        "category": "Korfball"
+    },
+    {
+        "english": "to score a goal",
+        "spanish": "marcar un gol",
+        "category": "Korfball"
+    },
+    {
+        "english": "attacker",
+        "spanish": "atacante",
+        "category": "Korfball"
+    },
+    {
+        "english": "defender",
+        "spanish": "defensor",
+        "category": "Korfball"
+    },
+    {
+        "english": "to pass",
+        "spanish": "pasar",
+        "category": "Korfball"
+    },
+    {
+        "english": "pivot",
+        "spanish": "pivot",
+        "category": "Korfball"
+    },
+    {
+        "english": "position",
+        "spanish": "posición",
+        "category": "Korfball"
+    },
+    {
+        "english": "shot at the basket",
+        "spanish": "tiro al aro",
+        "category": "Korfball"
+    },
+    {
+        "english": "January",
+        "spanish": "enero",
+        "category": "Months"
+    },
+    {
+        "english": "February",
+        "spanish": "febrero",
+        "category": "Months"
+    },
+    {
+        "english": "March",
+        "spanish": "marzo",
+        "category": "Months"
+    },
+    {
+        "english": "April",
+        "spanish": "abril",
+        "category": "Months"
+    },
+    {
+        "english": "May",
+        "spanish": "mayo",
+        "category": "Months"
+    },
+    {
+        "english": "June",
+        "spanish": "junio",
+        "category": "Months"
+    },
+    {
+        "english": "July",
+        "spanish": "julio",
+        "category": "Months"
+    },
+    {
+        "english": "August",
+        "spanish": "agosto",
+        "category": "Months"
+    },
+    {
+        "english": "September",
+        "spanish": "septiembre",
+        "category": "Months"
+    },
+    {
+        "english": "October",
+        "spanish": "octubre",
+        "category": "Months"
+    },
+    {
+        "english": "November",
+        "spanish": "noviembre",
+        "category": "Months"
+    },
+    {
+        "english": "December",
+        "spanish": "diciembre",
+        "category": "Months"
+    },
+    {
+        "english": "Monday",
+        "spanish": "lunes",
+        "category": "Days"
+    },
+    {
+        "english": "Tuesday",
+        "spanish": "martes",
+        "category": "Days"
+    },
+    {
+        "english": "Wednesday",
+        "spanish": "miércoles",
+        "category": "Days"
+    },
+    {
+        "english": "Thursday",
+        "spanish": "jueves",
+        "category": "Days"
+    },
+    {
+        "english": "Friday",
+        "spanish": "viernes",
+        "category": "Days"
+    },
+    {
+        "english": "Saturday",
+        "spanish": "sábado",
+        "category": "Days"
+    },
+    {
+        "english": "Sunday",
+        "spanish": "domingo",
+        "category": "Days"
+    },
+    {
+        "english": "Ik",
+        "spanish": "yo",
+        "category": "vervoeging"
+    },
+    {
+        "english": "jij",
+        "spanish": "tú",
+        "category": "vervoeging"
+    },
+    {
+        "english": "hij",
+        "spanish": "él",
+        "category": "vervoeging"
+    },
+    {
+        "english": "zij",
+        "spanish": "ella",
+        "category": "vervoeging"
+    },
+    {
+        "english": "ze",
+        "spanish": "usted",
+        "category": "vervoeging"
+    },
+    {
+        "english": "wij",
+        "spanish": "nosotros",
+        "category": "vervoeging"
+    },
+    {
+        "english": "wijMEISJE",
+        "spanish": "nosotras",
+        "category": "vervoeging"
+    },
+    {
+        "english": "jullie",
+        "spanish": "vosotros",
+        "category": "vervoeging"
+    },
+    {
+        "english": "ZIJ",
+        "spanish": "ellos",
+        "category": "vervoeging"
+    },
+    {
+        "english": "ZIJmeisje",
+        "spanish": "ellas",
+        "category": "vervoeging"
+    },
+    {
+        "english": "hun",
+        "spanish": "ustedes",
+        "category": "vervoeging"
+    },
+    {
+        "spanish": "cero",
+        "english": "zero",
+        "category": "numbers"
+    },
+    {
+        "spanish": "uno",
+        "english": "one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "dos",
+        "english": "two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "tres",
+        "english": "three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuatro",
+        "english": "four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cinco",
+        "english": "five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "seis",
+        "english": "six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "siete",
+        "english": "seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ocho",
+        "english": "eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "nueve",
+        "english": "nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "diez",
+        "english": "ten",
+        "category": "numbers"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve",
+        "category": "numbers"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "catorce",
+        "english": "fourteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "dieciocho",
+        "english": "eighteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "diecinueve",
+        "english": "nineteen",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintiuno",
+        "english": "twenty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintidós",
+        "english": "twenty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintitrés",
+        "english": "twenty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veinticuatro",
+        "english": "twenty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veinticinco",
+        "english": "twenty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintiséis",
+        "english": "twenty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintisiete",
+        "english": "twenty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintiocho",
+        "english": "twenty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintinueve",
+        "english": "twenty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta",
+        "english": "thirty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y uno",
+        "english": "thirty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y dos",
+        "english": "thirty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y tres",
+        "english": "thirty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y cuatro",
+        "english": "thirty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y cinco",
+        "english": "thirty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y seis",
+        "english": "thirty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y siete",
+        "english": "thirty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y ocho",
+        "english": "thirty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y nueve",
+        "english": "thirty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta",
+        "english": "forty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y uno",
+        "english": "forty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y dos",
+        "english": "forty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y tres",
+        "english": "forty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y cuatro",
+        "english": "forty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y cinco",
+        "english": "forty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y seis",
+        "english": "forty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y siete",
+        "english": "forty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y ocho",
+        "english": "forty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y nueve",
+        "english": "forty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta",
+        "english": "fifty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y uno",
+        "english": "fifty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y dos",
+        "english": "fifty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y tres",
+        "english": "fifty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y cuatro",
+        "english": "fifty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y cinco",
+        "english": "fifty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y seis",
+        "english": "fifty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y siete",
+        "english": "fifty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y ocho",
+        "english": "fifty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cincuenta y nueve",
+        "english": "fifty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta",
+        "english": "sixty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y uno",
+        "english": "sixty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y dos",
+        "english": "sixty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y tres",
+        "english": "sixty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y cuatro",
+        "english": "sixty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y cinco",
+        "english": "sixty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y seis",
+        "english": "sixty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y siete",
+        "english": "sixty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y ocho",
+        "english": "sixty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "sesenta y nueve",
+        "english": "sixty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta",
+        "english": "seventy",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y uno",
+        "english": "seventy-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y dos",
+        "english": "seventy-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y tres",
+        "english": "seventy-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y cuatro",
+        "english": "seventy-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y cinco",
+        "english": "seventy-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y seis",
+        "english": "seventy-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y siete",
+        "english": "seventy-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y ocho",
+        "english": "seventy-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "setenta y nueve",
+        "english": "seventy-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta",
+        "english": "eighty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y uno",
+        "english": "eighty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y dos",
+        "english": "eighty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y tres",
+        "english": "eighty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y cuatro",
+        "english": "eighty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y cinco",
+        "english": "eighty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y seis",
+        "english": "eighty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y siete",
+        "english": "eighty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y ocho",
+        "english": "eighty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "ochenta y nueve",
+        "english": "eighty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa",
+        "english": "ninety",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y uno",
+        "english": "ninety-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y dos",
+        "english": "ninety-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y tres",
+        "english": "ninety-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y cuatro",
+        "english": "ninety-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y cinco",
+        "english": "ninety-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y seis",
+        "english": "ninety-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y siete",
+        "english": "ninety-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y ocho",
+        "english": "ninety-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "noventa y nueve",
+        "english": "ninety-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cien",
+        "english": "one hundred",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cero",
+        "english": "zero",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "uno",
+        "english": "one",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "dos",
+        "english": "two",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "tres",
+        "english": "three",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "cuatro",
+        "english": "four",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "cinco",
+        "english": "five",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "seis",
+        "english": "six",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "siete",
+        "english": "seven",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "ocho",
+        "english": "eight",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "nueve",
+        "english": "nine",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "diez",
+        "english": "ten",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "catorce",
+        "english": "fourteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "dieciocho",
+        "english": "eighteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "diecinueve",
+        "english": "nineteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintiuno",
+        "english": "twenty-one",
+        "category": "onetoten"
+    }
+]
