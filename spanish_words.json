@@ -1173,5 +1173,25 @@
         "spanish": "quince",
         "english": "fifteen",
         "category": "onetoten"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "dieciocho",
+        "english": "eighteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "diecinueve",
+        "english": "nineteen",
+        "category": "onetoten"
     }
 ]
