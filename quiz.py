@@ -4,7 +4,7 @@ import json
 # This function reads a list of words from a URL and filters them by category
 def load_words(category):
     # Open the URL and read its contents as a string
-    with urllib.request.urlopen('https://raw.githubusercontent.com/Marcovandervlag/Spaans_leren/main/spanish_words.json') as f:
+    with urllib.request.urlopen('https://raw.githubusercontent.com/Marcovandervlag/learning_spanish/main/spanish_words.json') as f:
         content = f.read().decode('utf-8')    
     # Parse the string as a JSON object
     words = json.loads(content)
