@@ -36,12 +36,12 @@ def get_category():
     }
     # Loop until the user selects a valid option
     while True:
-        print("Select a category:")
+        print("\033[32mSelect a category:")
         # Print the menu options
         for key, value in options.items():
-            print(f"{key}. {value}")
+            print(f"\033[96m{key}. {value}")
         # Read the user's choice from the keyboard
-        print("type random if you want to randomize it")
+        print("type \033[91mrandom \033[96mif you want to randomize it")
         choice = input()
         if choice == "random":
             break
@@ -50,14 +50,14 @@ def get_category():
         elif choice in options:
             return options[choice]
         # Otherwise, print an error message and loop again
-        print("Invalid choice, please try again.")
+        print("\033[91mInvalid choice\033[96m, please try again.")
 # This function selects a random word from a list of words
 def get_word(words):
     return random.choice(words)
 # This function prompts the user to translate a word and returns True if the translation is correct, False otherwise
 def translate(word):
     english_word, spanish_word, category = word
-    guess = input(f"What is the Spanish word for {english_word}? ")
+    guess = input(f"\033[92mWhat is the \033[91mSpanish\033[92m word for \033[96m{english_word}\033[92m? ")
     return guess.lower() == spanish_word.lower()
 # This function plays the game, prompting the user to translate 10 random words from the specified category
 def play_game(category=None):
@@ -78,11 +78,11 @@ def play_game(category=None):
             correct += 1
         else:
             # Otherwise, print the correct translation
-            print(f"Incorrect. The correct answer is {word[1]}")
+            print(f"\033[91mIncorrect. \033[31mThe correct answer is \033[34m{word[1]}")
         # Increment the total counter
         total += 1
     # Print the final score
-    print(f"Game over! You scored {correct} out of {total}.")
+    print(f"\033[95mGame over! \033[94mYou scored {correct} out of {total}.")
     category = get_category()
     play_game(category)
 # This is the main entry point for the program
