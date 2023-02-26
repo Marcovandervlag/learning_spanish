@@ -1195,8 +1195,53 @@
         "category": "onetoten"
     },
     {
-        "spanish": "vein",
-        "english": "twenty",
-        "category": "onetotwenty"
+        "spanish": "veintiuno",
+        "english": "twenty-one",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintidós",
+        "english": "twenty-two",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintitrés",
+        "english": "twenty-three",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veinticuatro",
+        "english": "twenty-four",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veinticinco",
+        "english": "twenty-five",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintiséis",
+        "english": "twenty-six",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintisiete",
+        "english": "twenty-seven",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintiocho",
+        "english": "twenty-eight",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "veintinueve",
+        "english": "twenty-nine",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "treinta",
+        "english": "thirty",
+        "category": "onetoten"
     }
 ]
