@@ -1148,5 +1148,30 @@
         "spanish": "diez",
         "english": "ten",
         "category": "onetoten"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "catorce",
+        "english": "fourteen",
+        "category": "onetoten"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen",
+        "category": "onetoten"
     }
 ]
