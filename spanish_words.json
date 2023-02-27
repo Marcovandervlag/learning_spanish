@@ -1146,8 +1146,8 @@
     },
     {
         "spanish": "diez",
-        "english": "ten",
-        "category": "onetoten"
+        "english": "10",
+        "category": "tienTallen"
     },
     {
         "spanish": "once",
@@ -1195,9 +1195,9 @@
         "category": "onetoten"
     },
     {
-        "spanish": "veintiuno",
-        "english": "twenty-one",
-        "category": "onetoten"
+        "spanish": "veinte",
+        "english": "20",
+        "category": "tienTallen"
     },
     {
         "spanish": "veintidós",
@@ -1243,5 +1243,45 @@
         "spanish": "treinta",
         "english": "thirty",
         "category": "onetoten"
+    },
+        {
+        "spanish": "treinta",
+        "english": "30",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "cuarenta",
+        "english": "40",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "cincuenta",
+        "english": "50",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "sesenta",
+        "english": "60",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "setenta",
+        "english": "70",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "ochenta",
+        "english": "80",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "noventa",
+        "english": "90",
+        "category": "tienTallen"
+    },
+    {
+        "spanish": "cien",
+        "english": "100",
+        "category": "tienTallen"
     }
 ]
